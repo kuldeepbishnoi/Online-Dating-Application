@@ -1,4 +1,4 @@
-# DatingApp
+# Online Dating Application
 
 
 Demo
